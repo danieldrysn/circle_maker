@@ -3,7 +3,7 @@
 Author: Daniel D. Doyle
 Updated: 26 Oct 2021
 
-![Circles](https://github.com/danieldrysn/circle_maker/circles.png?raw=TRUE)
+![Circles](https://github.com/danieldrysn/circle_maker/blob/main/circles.PNG)
 
 Makefile
     Uses OpenCV and links other files to create the circle_maker application.
