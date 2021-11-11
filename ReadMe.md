@@ -1,8 +1,10 @@
-========================================================================
+#========================================================================
     CIRCLE MAKER APPLICATION : circle_maker Project Overview
-========================================================================
+#========================================================================
 Author: Daniel D. Doyle
 Updated: 26 Oct 2021
+
+![alt text](https://github.com/danieldrysn/circle_maker/circles.png)
 
 Makefile
     Uses OpenCV and links other files to create the circle_maker application.
